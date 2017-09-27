@@ -3,6 +3,7 @@ public class ejemplo{
 
 	System.out.println("Lorena Alonso Pedreira");
 	System.out.println("20 años");
+	System.out.println("León");
 
  }
 }
